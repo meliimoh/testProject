@@ -5,5 +5,16 @@ profitability. MIS plays a vital role in this transformation by providing busine
 the tools and insights necessary to make informed decisions and optimize their ecommerce ventures. The video provides thorough information on how organizations 
 use MIS in business, especially in e-commerce.
 
+Project Function:
+The above study of information systems used in e-commerce highlights the significance 
+of these systems in driving business performance and improving customer experiences.
+The use of information systems in e-commerce has become essential for businesses to 
+succeed in the marketplace. However, proper planning, implementation of security 
+measures, and continuous monitoring and improvement of e-commerce systems and 
+processes should be carried out.
+
+
+
+
 
 
